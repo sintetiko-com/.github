@@ -16,7 +16,7 @@ In an era of fluctuating fiat currencies, maintaining the value of assets can be
 
 3. **Oracle-Based Pricing**: The fiat prices are monitored by an algorithm that receives quotes via oracles. This system calculates compensations for governance token holders to address currency fluctuations.
 
-4. **Smart Contract Distribution**: Rewards are distributed based on community voting through a Bitcoin multi-signature smart contract.
+4. **Smart Contract Distribution**: Rewards are distributed based on community voting through a Bitcoin [multi-signature smart contract](https://gist.github.com/Praexor/ef267278e03875c6e46dba4fa56bbe46).
 
 5. **Taproot Asset Protocol**: Sintetiko stablecoins are based on the [Taproot Assets Protocol](https://github.com/Roasbeef/bips/blob/bip-tap/bip-tap.mediawiki), which enhances security and efficiency, running on both the Bitcoin main network and the Lightning Network for faster transactions.
 
