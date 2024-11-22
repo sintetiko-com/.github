@@ -4,6 +4,13 @@
 
 Sintetiko is a suite of Bitcoin-backed stablecoins designed to combat the loss of purchasing power associated with fiat currencies. By purchasing Sintetiko stablecoins, users contribute to a treasury that operates to offset the devaluation of fiat money. The management of this treasury is governed by a decentralized governance token, allowing holders to decide how the treasury's profits are distributed.
 
+## The Decline of the US Dollar's Purchasing Power
+
+The US dollar has lost its purchasing power over the past century primarily due to inflation, which erodes the value of money over time. This inflation has been driven by factors such as the detachment of the dollar from the gold standard in 1971, increased government spending, rising national debt, and the Federal Reserve's monetary policies. These dynamics have significantly expanded the money supply, reducing the dollar's ability to buy goods and services compared to its value in 1913.
+
+![Loss of US Dollar Purchasing Power](./Loss_of_Dollar_Purchasing_Power_Black.png)
+
+
 ## Problem Addressed
 
 In an era of fluctuating fiat currencies, maintaining the value of assets can be challenging. Sintetiko addresses this issue by providing stablecoins that are inherently backed by Bitcoin, which has proven its resilience and value retention over time.
